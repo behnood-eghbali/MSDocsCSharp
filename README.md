@@ -1,3 +1,3 @@
 # MSDocsCSharp
-# Microsoft Documentation C# Example (Code Samples)
+# Microsoft Documentation C# Examples (Code Samples)
 ## https://docs.microsoft.com/en-us/
