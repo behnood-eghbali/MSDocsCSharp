@@ -4,7 +4,7 @@ namespace OverloadingToString
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var auto = new Automobile("Lynx", 2016, 4, "V8");
             Console.WriteLine(auto.ToString());
