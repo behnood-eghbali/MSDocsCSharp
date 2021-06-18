@@ -10,6 +10,7 @@ namespace OverridingToString
             Console.WriteLine(objInstance.ToString());
         }
     }
+    
     // The example displays the following output:
     //       ObjectInstance: a
 }
