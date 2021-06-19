@@ -78,4 +78,10 @@ namespace GenericIEnumerable
                 string.Format(((memoryAfter - memoryBefore) / 1000).ToString(), "n") + "kb");
         }
     }
+    // This example displays output similar to the following:
+    //       Found: 2
+    //       Memory Used With Iterator =     33kb
+    //       ---
+    //       Found: 2
+    //       Memory Used Without Iterator =  206kb
 }
