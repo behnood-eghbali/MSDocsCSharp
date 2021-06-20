@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAddMethod", "ListAddMethod\ListAddMethod.csproj", "{5050E9A4-B4D7-4A66-AA62-DCF26822A4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5050E9A4-B4D7-4A66-AA62-DCF26822A4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5050E9A4-B4D7-4A66-AA62-DCF26822A4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5050E9A4-B4D7-4A66-AA62-DCF26822A4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5050E9A4-B4D7-4A66-AA62-DCF26822A4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCC96F4-AB82-4457-9775-E6423A03F096}
+	EndGlobalSection
+EndGlobal
